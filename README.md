@@ -24,3 +24,5 @@ The **Speaker Identification System** is a machine learning-based project that i
 3. **Model Training**: Train a machine learning model (e.g., Support Vector Machine, Random Forest, or Neural Networks) using the extracted features.
 4. **Speaker Identification**: Predict the speaker's identity from the input voice sample.
 
+## How to prepare database
+create a main folder in the folder create all folders name with voice of the person and add the voices of that person and the connect the google drive to the code and then run that file
